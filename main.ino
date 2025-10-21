@@ -1,4 +1,4 @@
-// Projet Tracker-Solaire | BUT2 MP 2024/2025 | SÉGUIER, RUSSO, AGBI
+// Projet Tracker-Solaire | BUT2 MP 2024/2025
 // terme "SRA" = Servomoteur à Rotation Angulaire
 // terme "LDR" = Photorésistance
 
@@ -98,6 +98,7 @@ void loop() {
   delay(1);
   
 }
+
 
 
 
